@@ -1,4 +1,4 @@
-<img src="https://github.com/Marcos-Kim/Marcos-Kim/blob/main/linguagens-programacao.avif">
+<img src="https://github.com/Marcos-Kim/Marcos-Kim/blob/main/linguagens-programacao.avif" width="1200">
 
 <h1 style="text-align:center">HELLO, WORLD!</h1>
 <p style="text-align:center">Aonde tudo começa.</p>
